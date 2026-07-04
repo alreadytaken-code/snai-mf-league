@@ -11,7 +11,7 @@ st.caption('Tracker SNAI MF League con storico giornate, blocchi da 6, quote mer
 
 LOCAL_TZ_OFFSET_HOURS = 2
 MATCHES_PER_BLOCK = 6
-REQUEST_TIMEOUT = 30
+REQUEST_TIMEOUT = 60
 SNAI_BASE_URL = 'https://betting-snai.flutterseatech.it/api/vrol-api/vrol'
 MF_LEAGUE_DESCRIPTION = 'MF League'
 TEAM_NAME_MAP = {
